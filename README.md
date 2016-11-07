@@ -89,6 +89,8 @@
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
 
+![](https://github.com/apiradee39/LAB-02/blob/master/imgs/2.png?raw=true)
+
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
